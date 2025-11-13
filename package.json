@@ -1,0 +1,1 @@
+{"name":"calculator-app","version":"1.0.0","description":"Tiny calculator with unit tests","main":"calculator.js","scripts":{"test":"jest --runInBand"},"devDependencies":{"jest":"^29.7.0"}}
